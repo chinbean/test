@@ -1,13 +1,10 @@
-package ddd;
-
+package com.bawei.test;
+//注释,在git端测试
 public class Test07 {
 	public static void main(String[] args) {
 		Other o = new Other();
 		Test07 t=new Test07(); 
 		t.addOne(o);
-		
-		
-		//sss
 		
 	}
 	public void addOne(final Other o) {
