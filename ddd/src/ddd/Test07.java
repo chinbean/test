@@ -6,6 +6,9 @@ public class Test07 {
 		Test07 t=new Test07(); 
 		t.addOne(o);
 		
+		
+		//sss
+		
 	}
 	public void addOne(final Other o) {
 	    o.i++;
